@@ -2,4 +2,8 @@ another file
 chrome was here
 not more
 restarting pc
+<<<<<<< HEAD
 pccpcpcpcpcpc
+=======
+pcpccpcpcpcpccpp
+>>>>>>> 7825356eec68b5e6afa3401bdd4cc40d480bf211
